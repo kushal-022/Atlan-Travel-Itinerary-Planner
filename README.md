@@ -59,5 +59,5 @@ The **Travel Itinerary Generator** is a computer program that empowers travelers
 Clone the repository:
 
 ```bash
-git clone https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator.git
+git clone https://github.com/kushal-022/Atlan-Travel-Itinerary-Planner.git 
 cd Travel-Itinerary-Generator
